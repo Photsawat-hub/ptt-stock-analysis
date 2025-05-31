@@ -29,7 +29,7 @@ This project showcases a full exploratory and statistical analysis on the daily 
 - Interpreted shape & skewness of data
 
 📌 Example Output:
-![Histogram](https://example.com/histogram-placeholder.png)
+![Histogram](Histogram.png)
 
 ---
 
@@ -39,7 +39,7 @@ This project showcases a full exploratory and statistical analysis on the daily 
 - Plotted boxplot to visualize outliers
 
 📌 Boxplot Sample:
-![Boxplot](https://example.com/boxplot-placeholder.png)
+![Boxplot](Boxplot.png)
 
 ---
 
@@ -49,10 +49,10 @@ This project showcases a full exploratory and statistical analysis on the daily 
 - Found **negative correlation** between Volume and Price (possible panic selling)
 
 📌 Correlation Heatmap:
-![Correlation Heatmap](https://example.com/correlation-placeholder.png)
+![Correlation Heatmap](Correlation Matrix.png)
 
 📌 Covariance Heatmap:
-![Covariance Heatmap](https://example.com/covariance-placeholder.png)
+![Covariance Heatmap](Covariance Matrix.png)
 
 ---
 
@@ -72,7 +72,7 @@ This project showcases a full exploratory and statistical analysis on the daily 
 - Computed RMSE = **0.188 Baht** (after adding more features)
 
 📌 Regression Plot:
-![Regression Result](https://example.com/linear-regression-placeholder.png)
+![Regression Result](Prediction Graph.png)
 
 ---
 
