@@ -112,4 +112,3 @@ Make sure to place `ptt_daily_price.csv` in the same directory.
 ---
 
 > Author: **Photsawat Buanuam**  
-> Portfolio for: **Data Analyst Interview @ KKP**
