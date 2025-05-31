@@ -49,10 +49,10 @@ This project showcases a full exploratory and statistical analysis on the daily 
 - Found **negative correlation** between Volume and Price (possible panic selling)
 
 📌 Correlation Heatmap:
-![Correlation Matrix](Correlation Matrix.png)
+![Correlation Matrix](Correlation_Matrix.png)
 
 📌 Covariance Heatmap:
-![Covariance Matrix](Covariance Matrix.png)
+![Covariance Matrix](Covariance_Matrix.png)
 
 ---
 
@@ -72,7 +72,7 @@ This project showcases a full exploratory and statistical analysis on the daily 
 - Computed RMSE = **0.188 Baht** (after adding more features)
 
 📌 Regression Plot:
-![Regression Result](Prediction Graph.png)
+![Regression Result](Prediction_Graph.png)
 
 ---
 
