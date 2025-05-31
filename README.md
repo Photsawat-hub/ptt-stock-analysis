@@ -7,7 +7,7 @@ This project showcases a full exploratory and statistical analysis on the daily 
 ## ⚙️ Tools & Dataset
 - **Python Libraries**: pandas, numpy, seaborn, matplotlib, scikit-learn, scipy
 - **IDE**: Jupyter Notebook
-- **Dataset**: `ptt_daily_price.csv` (PTT stock prices for 2025)
+- **Dataset**: `ptt_daily_price.csv` "PTT stock prices for 2025" Download by use Download_data.py
 
 ---
 
