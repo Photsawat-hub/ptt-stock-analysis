@@ -49,10 +49,10 @@ This project showcases a full exploratory and statistical analysis on the daily 
 - Found **negative correlation** between Volume and Price (possible panic selling)
 
 📌 Correlation Heatmap:
-![Correlation Heatmap](Correlation Matrix.png)
+![Correlation Matrix](Correlation Matrix.png)
 
 📌 Covariance Heatmap:
-![Covariance Heatmap](Covariance Matrix.png)
+![Covariance Matrix](Covariance Matrix.png)
 
 ---
 
